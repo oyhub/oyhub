@@ -4,7 +4,7 @@ I am a front-end developer student at <a href="http://www.noroff.no">Noroff</a>.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyhub&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white
 https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
 https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white
@@ -28,5 +28,3 @@ https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&log
 https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
 https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
--->
