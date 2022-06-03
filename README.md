@@ -2,7 +2,7 @@
 
 I am a front-end developer student at <a href="http://www.noroff.no">Noroff</a>. I'm half way into my 4years of part-time studies, and this fall I am starting full time job as a front-end developer.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={oyhub}
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={oyhub})
 
 <!--
 https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white
