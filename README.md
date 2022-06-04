@@ -1,6 +1,6 @@
 ## Hi, I'm Øyvind 👋
 
-I am a front-end developer student at <a href="http://www.noroff.no">Noroff</a>. I'm half way into my 4years of part-time studies, and this fall I am starting full time job as a front-end developer.
+I am a front-end developer student at <a href="http://www.noroff.no">Noroff</a>. I'm half way into my 4 years of part-time studies, and this fall I am starting full time job as a front-end developer.
 
 ### I'm coding and learning 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
